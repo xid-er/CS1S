@@ -10,6 +10,9 @@ Karlis Siders, 2467273S, CS1S, LB01, March 2020
 
 Status: everything runs according to the output given.
 
+## Language
+Sigma16 (assembly)
+
 ## General description of the program
 
 The program performs a sequence of operations on ordered lists; 
